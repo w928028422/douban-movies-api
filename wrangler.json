@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "douban-movies-api",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "f12dd170-6b95-4ebe-b758-734be77876fd",
+      "database_name": "douban-movies"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
